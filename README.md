@@ -20,6 +20,7 @@ Install [LaTeX](https://www.latex-project.org/get/). If you are on Linux, then y
 2. Generate a new LaTeX project:
 ```
     cookiecutter https://github.com/curiouslearner/jdf-latex.git
+    cookiecutter https://github.com/shenghsi/jdf-latex.git
 ```
 
 3. Answer a few questions.
